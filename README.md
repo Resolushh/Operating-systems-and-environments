@@ -73,6 +73,9 @@
 6. **GASM - основы**:
    - Практическая работа по основам GNU Assembler;
    - ДЗ 9: Автоматизация компиляции Unix Makefiles.
+7. **Теоретические материалы**:
+   - Тема 7: Файловая система;
+   - Материалы по темам 1–7: [ветка theory](https://github.com/Resolushh/Operating-systems-and-environments/tree/theory).
 
 [^1]: По способам межпроцессного взаимодействия существует отдельный 
 [преподавательский репозиторий](https://github.com/worriedlemon/TOPCollege-OS) 
@@ -89,5 +92,6 @@
 | 6 | **GASM — основы** | Автоматизация сборки | [lesson_5](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_5) |
 | 1–7 | **Теория** | История ОС, процессы, потоки, память и файловые системы | [theory](https://github.com/Resolushh/Operating-systems-and-environments/tree/theory) |
 | — | **Доклад** | Эволюция SteamOS | [report_steamos](https://github.com/Resolushh/Operating-systems-and-environments/tree/report_steamos) |
+
 
 
