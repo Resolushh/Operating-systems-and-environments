@@ -2,7 +2,7 @@
 
 Исследование истории и устройства операционной системы SteamOS.
 
-> [!NOTE]
+> [!IMPORTANT]
 > В докладе рассматриваются развитие платформы SteamOS и её роль в игровых устройствах Valve.
 
 ## Материалы
@@ -18,5 +18,6 @@
 ## Весь курс
 
 [← К оглавлению курса](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
+
 
 
