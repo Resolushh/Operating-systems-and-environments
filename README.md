@@ -2,7 +2,7 @@
 
 **Тема 6** · GNU Assembler и автоматизация сборки
 
-> [!NOTE]
+> [!TIP]
 > Makefile описывает шаги сборки и помогает запускать их одной командой.
 
 ## Материалы
@@ -18,4 +18,5 @@
 ## Весь курс
 
 [← К оглавлению курса](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
+
 
