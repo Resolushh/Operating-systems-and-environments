@@ -7,4 +7,8 @@
 - [Задание — Доклады](<Задание - Доклады.pdf>) — требования к выступлению: выбрать операционную систему, подготовить доклад на 5–7 минут и презентацию на 5–7 слайдов.
 - [Доклад — Эволюция SteamOS](<Архитектура и эволюция SteamOS.pdf>) — материал о развитии SteamOS, её архитектуре и особенностях.
 
-[← main](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
+---
+
+## Навигация
+
+[← Весь курс](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
