@@ -12,6 +12,4 @@
 - [Задание](<Задание 2 - Функции Bash.pdf>) — создать функции для вывода в потоки, получения информации о системе и чтения переменных по имени.
 - [Решение](<Решение 2 - Функции Bash.pdf>) — отчёт с примерами функций и пояснением различий `exit` и `return`.
 
-## Маршрут обратно
-
-[← Вернуться к главному README в ветке `main`](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
+[← main](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
