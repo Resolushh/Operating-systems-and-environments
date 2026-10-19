@@ -8,6 +8,4 @@
 - [Задание](<Задание 1 - Автоматизация сборки.pdf>) — описать зависимости целей сборки и собрать программу командой `make build`.
 - [Решение](<Решение 1 - Автоматизация сборки.pdf>) — отчёт о создании Makefile, сборке программы и запуске результата.
 
-## Маршрут обратно
-
-[← Вернуться к главному README в ветке `main`](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
+[← main](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
