@@ -80,11 +80,11 @@
 
 ## Навигация по веткам
 
-| Раздел | Материалы | Ветка |
-|---|---|---|
-| **Bash — основы** | Снимки ВМ, простые команды | [lesson_1](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_1) |
-| **Bash — администрирование** | Процессы и сетевой адаптер | [lesson_2](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_2) |
-| **Bash — приложения** | `tmux` | [lesson_3](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_3) |
-| **Bash — написание скриптов** | Демоны `systemd` и функции | [lesson_4](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_4) |
-| **GASM — основы** | Автоматизация сборки | [lesson_5](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_5) |
-| **Доклад** | Эволюция SteamOS | [report_steamos](https://github.com/Resolushh/Operating-systems-and-environments/tree/report_steamos) |
+| № темы | Раздел | Материалы | Ветка |
+|---:|---|---|---|
+| 2 | **Bash — основы** | Снимки ВМ, простые команды | [lesson_1](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_1) |
+| 3 | **Bash — администрирование** | Процессы и сетевой адаптер | [lesson_2](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_2) |
+| 4 | **Bash — приложения** | `tmux` | [lesson_3](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_3) |
+| 5 | **Bash — написание скриптов** | Демоны `systemd` и функции | [lesson_4](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_4) |
+| 6 | **GASM — основы** | Автоматизация сборки | [lesson_5](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_5) |
+| — | **Доклад** | Эволюция SteamOS | [report_steamos](https://github.com/Resolushh/Operating-systems-and-environments/tree/report_steamos) |
