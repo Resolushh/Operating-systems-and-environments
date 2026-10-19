@@ -8,4 +8,8 @@
 - [Задание](<Задание 1 - Приложения.pdf>) — создать окна и панели `tmux`, запустить Python-скрипт, наблюдать за файлом и установить `fastfetch`.
 - [Решение](<Решение 1 - Приложения.pdf>) — отчёт с последовательностью действий и результатами работы в окнах и панелях.
 
-[← main](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
+---
+
+## Навигация
+
+[← Весь курс](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
