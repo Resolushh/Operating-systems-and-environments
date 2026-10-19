@@ -73,23 +73,24 @@
 6. **GASM - основы**:
    - Практическая работа по основам GNU Assembler;
    - ДЗ 9: Автоматизация компиляции Unix Makefiles.
-7. **Файловая система**: [материалы темы](https://github.com/Resolushh/Operating-systems-and-environments/tree/theory).
-
 [^1]: По способам межпроцессного взаимодействия существует отдельный 
 [преподавательский репозиторий](https://github.com/worriedlemon/TOPCollege-OS) 
 с демонстрацией механизмов IPC в виде небольших приложений на C++.
 
 ## Навигация по веткам
 
-| № темы | Раздел | Материалы | Ветка |
-|---:|---|---|---|
-| 2 | **Bash — основы** | Снимки ВМ, простые команды | [lesson_1](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_1) |
-| 3 | **Bash — администрирование** | Процессы и сетевой адаптер | [lesson_2](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_2) |
-| 4 | **Bash — приложения** | `tmux` | [lesson_3](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_3) |
-| 5 | **Bash — написание скриптов** | Демоны `systemd` и функции | [lesson_4](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_4) |
-| 6 | **GASM — основы** | Автоматизация сборки | [lesson_5](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_5) |
-| 1–7 | **Теория** | История ОС, процессы, потоки, память и файловые системы | [theory](https://github.com/Resolushh/Operating-systems-and-environments/tree/theory) |
-| — | **Доклад** | Эволюция SteamOS | [report_steamos](https://github.com/Resolushh/Operating-systems-and-environments/tree/report_steamos) |
+| Раздел | Материалы | Ветка |
+|---|---|---|
+| **Bash — основы** | Снимки ВМ, простые команды | [lesson_1](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_1) |
+| **Bash — администрирование** | Процессы и сетевой адаптер | [lesson_2](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_2) |
+| **Bash — приложения** | `tmux` | [lesson_3](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_3) |
+| **Bash — написание скриптов** | Демоны `systemd` и функции | [lesson_4](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_4) |
+| **GASM — основы** | Автоматизация сборки | [lesson_5](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_5) |
+| **Теория** | История ОС, процессы, потоки, память и файловые системы | [theory](https://github.com/Resolushh/Operating-systems-and-environments/tree/theory) |
+| **Доклад** | Эволюция SteamOS | [report_steamos](https://github.com/Resolushh/Operating-systems-and-environments/tree/report_steamos) |
+
+
+
 
 
 
