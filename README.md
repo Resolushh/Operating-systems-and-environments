@@ -16,4 +16,8 @@
 - [Задание](<Задание 3 - Простые команды 2.pdf>) — создать файлы, переименовать их, отфильтровать строки и посчитать символы.
 - [Решение](<Решение 3 - Простые команды 2.pdf>) — отчёт о работе с файлами, конвейерами и подсчётом символов.
 
-[← main](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
+---
+
+## Навигация
+
+[← Весь курс](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
