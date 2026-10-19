@@ -87,5 +87,7 @@
 | 4 | **Bash — приложения** | `tmux` | [lesson_3](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_3) |
 | 5 | **Bash — написание скриптов** | Демоны `systemd` и функции | [lesson_4](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_4) |
 | 6 | **GASM — основы** | Автоматизация сборки | [lesson_5](https://github.com/Resolushh/Operating-systems-and-environments/tree/lesson_5) |
+| 1–7 | **Теория** | История ОС, процессы, потоки, память и файловые системы | [theory](https://github.com/Resolushh/Operating-systems-and-environments/tree/theory) |
 | — | **Доклад** | Эволюция SteamOS | [report_steamos](https://github.com/Resolushh/Operating-systems-and-environments/tree/report_steamos) |
+
 
