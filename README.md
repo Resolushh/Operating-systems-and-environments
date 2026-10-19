@@ -2,6 +2,9 @@
 
 **Тема 6** · GNU Assembler и автоматизация сборки
 
+> [!NOTE]
+> Makefile описывает шаги сборки и помогает запускать их одной командой.
+
 ## Материалы
 
 ### 01. Сборка программы с Makefile
@@ -15,3 +18,4 @@
 ## Весь курс
 
 [← К оглавлению курса](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
+
