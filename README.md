@@ -12,4 +12,8 @@
 - [Задание](<Задание 2 - Сетевое администрирование.pdf>) — настроить Host-Only адаптер, назначить IP-адрес и проверить связь командой `ping`.
 - [Решение](<Решение 2 - Сетевое администрирование.pdf>) — отчёт о настройке интерфейса и проверке связи между хостом и виртуальной машиной.
 
-[← main](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
+---
+
+## Навигация
+
+[← Весь курс](https://github.com/Resolushh/Operating-systems-and-environments/tree/main)
